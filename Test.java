@@ -21,7 +21,7 @@ public class Test {
 
         double formula_area = 
         price=(price<20)? 20 : price;
-        System.out.println("taxi fare you will pay:"+ price);
+        System.out.println("area:"+ price);
 
 
 
